@@ -101,7 +101,7 @@ console.print("Hello", "World!")
 console.print("Hello", "World!", style="bold red")
 ```
 
-Вывод будет выглядить примерно так:
+Вывод будет выглядит примерно так:
 
 ![Hello World](https://github.com/textualize/rich/raw/master/imgs/hello_world.png)
 
